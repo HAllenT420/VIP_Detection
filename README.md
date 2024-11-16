@@ -34,7 +34,7 @@ The project utilizes a dataset containing **customer features** and a **binary t
 - Selected the **best model** based on **cross-validation Log Loss**.
 
 ### **4. Hyperparameter Tuning**
-- **Optimized model performance** using **Grid Search** or **Random Search**.
+- **Optimized model performance** using**Random Search**.
 
 ### **5. Probability Thresholding**
 - Mapped **probabilities to class labels** using a **threshold of 0.75**.
